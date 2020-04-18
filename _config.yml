@@ -1,1 +1,13 @@
-theme: jekyll-theme-time-machine
+plugins: [jekyll-include-cache]
+remote_theme: "mmistakes/minimal-mistakes@4.19.1"
+
+url: "https://astral.blog"
+title: [Astral]
+subtitle: ["Thoughts on an accessible computational medium"]
+description: ["Thoughts on an accessible computational medium."] # For SEO
+name: Nick Smith
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-163766579-1"
